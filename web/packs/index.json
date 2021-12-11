@@ -1,6 +1,8 @@
 {
   "packs": [
-    "kanevskiysledstvie.json"
+    "kanevskiysledstvie.json",
+    "nazistickers_by_fStikBot.json",
+    "sp21e5ca78fdf6f22d02fcba104c1c585b_by_stckrRobot.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
